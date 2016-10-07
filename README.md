@@ -3,15 +3,15 @@ I wrote this code to benchmark the performance of the cramer's rule against a si
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisities
 
 What things you need to install the software and how to install them
 
 ```
-nodejs (https://nodejs.org)
-g++ compiler for C++
+1. nodejs (https://nodejs.org)
+2. g++ compiler for C++
 ```
 
 ### Installing
@@ -24,7 +24,7 @@ Type these into your terminal
 $ sh ./compile.sh
 $ sh ./commands.sh
 ```
-Windows
+**Windows**
 ```
 Type these on your command line
 > compile.bat
