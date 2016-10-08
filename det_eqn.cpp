@@ -102,7 +102,7 @@ int main (int argc, char ** argv) {
 	
 	determinant = A.determinant();
 
-	std::cout << "THE DETERMINANT IS " << determinant << std::endl;
+	// std::cout << "THE DETERMINANT IS " << determinant << std::endl;
 	
 	for (i = 0; i < columns; i++) {
 		Eigen::MatrixXd augmentedMatrix(columns, columns);
